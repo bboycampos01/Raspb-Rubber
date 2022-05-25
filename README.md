@@ -6,6 +6,15 @@ SE TE PIDE QUE USES ESTE CONOCIMIENTO PARA EL BIEN Y APOYO DE LAS PERSONAS Y NO 
 -EL CONOCIMIENTO ES LIBRE-.
 QUANTUM TECHNOLOGY.
 
+LOS INVITAMOS A FORMAR PARTE DE ESTA FAMILIA CUANTICA DESDE NUESTRA PAGINA WEB
+www.QuantumTecno.com
+
+Libros, Juegos, Apps, Tutoriales, Fondos de pantalla, Proyectos y mucho mas...
+
+Y en nuestra pagina de Facebook donde encontraras las actualizaciones que se hagan dentro de la pagina web y ofertas de aplicaciones que pueden llegar a estar mas baratas o totalmente gratis.
+
+TUTORIAL
+
 LEER ANTES DE HACER CUALQUIER COSA.
 
 Bueno aqui estan  los pasos necesarios para poder crear una Rubber-Ducky a partir de una RaspberryPico y los archivos contenidos dentro de este repositorio.
